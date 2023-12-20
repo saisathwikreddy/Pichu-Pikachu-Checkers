@@ -1,7 +1,7 @@
 # Pichu Pikachu Checkers
 
 ## Overview
-Pichu Pikachu Checkers is a strategic board game implemented in Python, inspired by classic chess but with unique twists. The game is played on an n x n grid where n is an even number greater than or equal to 8. Players use three types of pieces - Pichus, Pikachus, and Raichus, in black and white colors, with each type of piece having its own movement rules. The game's objective is to capture the opponent's pieces and employ strategies to win.
+Pichu Pikachu Checkers is a strategic board game implemented in Python, inspired by classic checkers but with unique twists. The game is played on an n x n grid where n is an even number greater than or equal to 8. Players use three types of pieces - Pichus, Pikachus, and Raichus, in black and white colors, with each type of piece having its own movement rules. The game's objective is to capture the opponent's pieces and employ strategies to win.
 
 ## Features
 - **Dynamic Board Size**: Play on any even-sized grid starting from 8x8.
